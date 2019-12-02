@@ -4,6 +4,13 @@
 
 Ссылка: 
 
+## Список упомянутых инструментов
+
+- Sphinx SSG (http://www.sphinx-doc.org/en/master/)
+- Redoc API doc visualizer (https://github.com/Redocly/redoc)
+- Спецификация openapi 3 (https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md)
+- Chai OpenAPI Response Validator (https://github.com/RuntimeTools/chai-openapi-response-validator)
+
 ## Гайдлайн к описанию поля
 
 The requirements for the descriptions are below.
