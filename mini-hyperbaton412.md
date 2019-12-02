@@ -4,6 +4,24 @@
 
 Ссылка: 
 
+## Пример конфигурации Redoc в Sphinx
+
+``` python
+extensions = [
+    'sphinxcontrib.redoc',
+]
+
+redoc = [
+    {
+        'name': html_short_title,
+        'page': 'docs/api',
+        'spec': 'openapi.json',
+        'embed': True,
+    },
+]
+redoc_uri = 'https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js'
+```
+
 ## Список упомянутых инструментов
 
 - Sphinx SSG (http://www.sphinx-doc.org/en/master/)
