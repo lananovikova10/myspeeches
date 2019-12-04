@@ -2,7 +2,7 @@
 
 ## Слайды
 
-Ссылка: 
+Ссылка: https://drive.google.com/file/d/1j9mV55Ap9BrBNvD6Vxqhtyq_HKQoqJLH/view?usp=sharing 
 
 ## Пример конфигурации Redoc в Sphinx
 
@@ -28,6 +28,7 @@ redoc_uri = 'https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js
 - Redoc API doc visualizer (https://github.com/Redocly/redoc)
 - Спецификация openapi 3 (https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md)
 - Chai OpenAPI Response Validator (https://github.com/RuntimeTools/chai-openapi-response-validator)
+- Где мы подсмотрели поддержку полиморфичных моделей (https://gist.github.com/vrialland/7031316121cb8e025dfca9dccfc226b1)
 
 ## Гайдлайн к описанию поля
 
